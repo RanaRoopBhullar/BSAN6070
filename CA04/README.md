@@ -7,9 +7,6 @@ This file contains all the material needed for CA04. The topic for this CA is "E
 ### Data
 The link for the data is included in the notebook, so there is no need to download anything.
 
-## Runtime
-< 1 min
-
 ### Overview
 
 The notebook is divided in different parts.
