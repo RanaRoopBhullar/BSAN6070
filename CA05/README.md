@@ -7,6 +7,9 @@ The dataset is obtained from NSRR Sleep Heart Health Study and is found at the f
 "https://github.com/ArinB/CA05-B-Logistic-Regression/raw/master/cvd_data.csv”
 Use the link to read your data in Python.
 
+## Runtime
+< 1 min
+
 ## Table of Contents
 ### Part 1
 - Import Packages
