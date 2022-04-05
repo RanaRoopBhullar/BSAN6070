@@ -10,6 +10,9 @@ What is it about?
 
 This data is released by the Ministry of Environment and Forests and Central Pollution Control Board of India under the National Data Sharing and Accessibility Policy (NDSAP), using this one can explore India’s air pollution levels at a more granular scale.
 
+## Runtime
+< 1 min
+
 What information it has? 
 The dataset has 13 columns which are, 
 • stn_code: Station Code 
