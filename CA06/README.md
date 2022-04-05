@@ -8,6 +8,9 @@ The sample dataset we will be using is obtained from the UCI Machine Learning Re
 "https://github.com/ArinB/CA05-kNN/raw/master/movies_recommendation_data.csv”
 Use the link to read the data in Python.
 
+## Runtime
+< 1 min
+
 ## Table of Contents
 - Import Packages
 - Read Data
